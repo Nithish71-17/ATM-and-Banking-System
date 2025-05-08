@@ -1,7 +1,6 @@
 # 19CS408--ATM
 ### NAME: GIRITHICK ROHAN N
 ### REG NO: 212223230063
-### DATE: 13.09.2024
 ## AIM:
 
 To study the problem statement, SRS document and draw all the UML diagrams of 
